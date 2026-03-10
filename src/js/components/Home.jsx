@@ -11,8 +11,9 @@ const Home = () => {
 		<div className="text-center">
 
 			<Navbar />
+			<div className="container py-5">
 			<Jumbotron />
-			
+			</div>
 		</div>
 	);
 };
