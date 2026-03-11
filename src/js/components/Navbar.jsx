@@ -2,10 +2,10 @@ import React from "react";
 
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg bg-secondary">
+        <nav className="navbar navbar-expand-lg navbarColor fw-bold">
             <div className="container">
 
-                <a className="navbar-brand" href="#">Potato</a>
+                <a className="navbar-brand" href="#">Arknights Endfield</a>
 
                 <button
                     className="navbar-toggler"
