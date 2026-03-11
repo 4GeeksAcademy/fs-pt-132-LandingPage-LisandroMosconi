@@ -9,3 +9,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.navbarColor {
+    background-color: #FEFF42;
+}
+
+.jumbotronColor {
+    background: linear-gradient(135deg, #181818, #e4e4e2);
+  color: white;
+}
+
+.arknightsButton {
+    background-color: #FEFF42
+}
